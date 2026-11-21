@@ -30,9 +30,11 @@ Actual Windows 11 captures, cropped to **520 × 240 pixels** without resizing or
 
 ### System and device events
 
-| Caps Lock | Bluetooth |
+| Bluetooth | Network interface |
 | :---: | :---: |
-| ![Caps Lock](fluent-osd/screenshots/07_caps_lock.png) | ![Bluetooth](fluent-osd/screenshots/08_bluetooth.png) |
+| ![Bluetooth](fluent-osd/screenshots/08_bluetooth.png) | ![Network event](fluent-osd/screenshots/12_network.png) |
+
+See also the [Caps Lock example](fluent-osd/screenshots/07_caps_lock.png).
 
 See [Fluent OSD](https://github.com/reg-chen/windhawk-mods/blob/fluent-osd-brush-layers/mods/fluent-osd.wh.cpp) for the Windhawk mod source and feature notes.
 
