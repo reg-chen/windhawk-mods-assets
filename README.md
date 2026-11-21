@@ -30,11 +30,11 @@ Actual Windows 11 captures, cropped to **520 × 240 pixels** without resizing or
 
 ### System and device events
 
-| Bluetooth | Network interface |
-| :---: | :---: |
-| ![Bluetooth](fluent-osd/screenshots/08_bluetooth.png) | ![Network event](fluent-osd/screenshots/12_network.png) |
+| Wi-Fi disconnected | Bluetooth keyboard connected | Bluetooth mouse connected |
+| :---: | :---: | :---: |
+| ![Wi-Fi disconnected](fluent-osd/screenshots/12_network.png) | ![MX Keys Mini connected](fluent-osd/screenshots/13_bluetooth_keyboard.png) | ![MX Master 4 B connected](fluent-osd/screenshots/14_bluetooth_mouse.png) |
 
-See also the [Caps Lock example](fluent-osd/screenshots/07_caps_lock.png).
+See also the [general Bluetooth example](fluent-osd/screenshots/08_bluetooth.png) and the [Caps Lock example](fluent-osd/screenshots/07_caps_lock.png).
 
 See [Fluent OSD](https://github.com/reg-chen/windhawk-mods/blob/fluent-osd-brush-layers/mods/fluent-osd.wh.cpp) for the Windhawk mod source and feature notes.
 
