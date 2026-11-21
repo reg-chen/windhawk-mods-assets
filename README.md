@@ -30,7 +30,12 @@ Actual Windows 11 captures, cropped to **520 × 240 pixels** without resizing or
 
 ### Network
 
-![Connected Wi-Fi profile](fluent-osd/screenshots/network/wifi_connected.png)
+Wi-Fi profile association and Wi-Fi radio on/off are independent events;
+other network interfaces retain their own notifications.
+
+| Connected Wi-Fi profile | Disconnected network interface |
+| :---: | :---: |
+| ![Connected Wi-Fi profile](fluent-osd/screenshots/network/wifi_connected.png) | ![Disconnected network interface (name redacted)](fluent-osd/screenshots/network/interface_disconnected.png) |
 
 ### Bluetooth
 
@@ -40,7 +45,9 @@ Actual Windows 11 captures, cropped to **520 × 240 pixels** without resizing or
 
 ### System
 
-![Caps Lock](fluent-osd/screenshots/system/caps_lock.png)
+| Caps Lock | Insert |
+| :---: | :---: |
+| ![Caps Lock](fluent-osd/screenshots/system/caps_lock.png) | ![Insert](fluent-osd/screenshots/system/insert.png) |
 
 See [Fluent OSD](https://github.com/reg-chen/windhawk-mods/blob/fluent-osd-brush-layers/mods/fluent-osd.wh.cpp) for the Windhawk mod source and feature notes.
 
