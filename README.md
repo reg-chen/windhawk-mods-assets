@@ -6,6 +6,8 @@ Screenshots and other documentation assets for [reg-chen/windhawk-mods](https://
 
 Actual Windows 11 captures, cropped to **520 × 240 pixels** without resizing or synthetic image generation. Screenshots are grouped by feature, with descriptive filenames rather than sequence numbers.
 
+**Crop alignment:** For the available 1920 × 1080 source screenshots of clipboard, network, Bluetooth keyboard/mouse and Insert events, use the same source crop rectangle `(700, 420)–(1220, 660)` so the OSD card sits at the same center point `(260, 120)` within each output. Do not reuse a fixed crop on different resolutions without checking the OSD anchor. The generic network-interface example has its application title obscured; the connection-status text is unchanged.
+
 ### Volume, media and mixer
 
 | Horizontal volume + media | Vertical volume + media |
