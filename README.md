@@ -26,7 +26,10 @@ All screenshots are cropped from the actual Windows 11 desktop capture at **520 
 | :---: | :---: |
 | ![Horizontal volume + media](fluent-osd/screenshots/09_horizontal_volume_media.png) | ![Horizontal volume + mixer](fluent-osd/screenshots/10_horizontal_volume_mixer.png) |
 
-| Horizontal brightness | | :---: | | ![Horizontal brightness](fluent-osd/screenshots/11_horizontal_brightness.png) | 
+| Horizontal brightness | |
+| :---: | :---: |
+| ![Horizontal brightness](fluent-osd/screenshots/11_horizontal_brightness.png) | |
+
 See [Fluent OSD](https://github.com/reg-chen/windhawk-mods/blob/fluent-osd-brush-layers/mods/fluent-osd.wh.cpp) for the Windhawk mod source and feature notes.
 
 Product names and trademarks shown in desktop screenshots remain the property of their respective owners. Screenshots are provided only to illustrate Fluent OSD behavior.
