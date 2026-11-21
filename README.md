@@ -4,37 +4,43 @@ Screenshots and other documentation assets for [reg-chen/windhawk-mods](https://
 
 ## Fluent OSD screenshots
 
-Actual Windows 11 captures, cropped to **520 × 240 pixels** without resizing or synthetic image generation.
+Actual Windows 11 captures, cropped to **520 × 240 pixels** without resizing or synthetic image generation. Screenshots are grouped by feature, with descriptive filenames rather than sequence numbers.
 
-### Volume and mixer
+### Volume, media and mixer
 
 | Horizontal volume + media | Vertical volume + media |
 | :---: | :---: |
-| ![Horizontal volume + media](fluent-osd/screenshots/09_horizontal_volume_media.png) | ![Vertical volume + media](fluent-osd/screenshots/01_vertical_volume_media.png) |
+| ![Horizontal volume + media](fluent-osd/screenshots/volume/horizontal_media.png) | ![Vertical volume + media](fluent-osd/screenshots/volume/vertical_media.png) |
 
 | Horizontal volume + mixer | Vertical volume + mixer |
 | :---: | :---: |
-| ![Horizontal volume + mixer](fluent-osd/screenshots/10_horizontal_volume_mixer.png) | ![Vertical volume + mixer](fluent-osd/screenshots/03_vertical_volume_mixer.png) |
+| ![Horizontal volume + mixer](fluent-osd/screenshots/volume/horizontal_mixer.png) | ![Vertical volume + mixer](fluent-osd/screenshots/volume/vertical_mixer.png) |
 
 ### Brightness
 
 | Horizontal brightness | Vertical brightness |
 | :---: | :---: |
-| ![Horizontal brightness](fluent-osd/screenshots/11_horizontal_brightness.png) | ![Vertical brightness](fluent-osd/screenshots/02_vertical_brightness.png) |
+| ![Horizontal brightness](fluent-osd/screenshots/brightness/horizontal.png) | ![Vertical brightness](fluent-osd/screenshots/brightness/vertical.png) |
 
 ### Clipboard
 
-| Copied image preview | Copied text | Copied file |
+| Copied image preview | Copied text | Copied files |
 | :---: | :---: | :---: |
-| ![Copied image preview](fluent-osd/screenshots/04_clipboard_image.png) | ![Copied text](fluent-osd/screenshots/05_clipboard_text.png) | ![Copied file](fluent-osd/screenshots/06_clipboard_file.png) |
+| ![Copied image preview](fluent-osd/screenshots/clipboard/image_preview.png) | ![Copied text](fluent-osd/screenshots/clipboard/text.png) | ![Copied files](fluent-osd/screenshots/clipboard/files.png) |
 
-### System and device events
+### Network
 
-| Wi-Fi disconnected | Bluetooth keyboard connected | Bluetooth mouse connected |
+![Connected Wi-Fi profile](fluent-osd/screenshots/network/wifi_connected.png)
+
+### Bluetooth
+
+| Bluetooth device | Keyboard connected | Mouse connected |
 | :---: | :---: | :---: |
-| ![Wi-Fi disconnected](fluent-osd/screenshots/12_network.png) | ![MX Keys Mini connected](fluent-osd/screenshots/13_bluetooth_keyboard.png) | ![MX Master 4 B connected](fluent-osd/screenshots/14_bluetooth_mouse.png) |
+| ![Bluetooth device](fluent-osd/screenshots/bluetooth/device.png) | ![MX Keys Mini connected](fluent-osd/screenshots/bluetooth/keyboard.png) | ![MX Master 4 B connected](fluent-osd/screenshots/bluetooth/mouse.png) |
 
-See also the [general Bluetooth example](fluent-osd/screenshots/08_bluetooth.png) and the [Caps Lock example](fluent-osd/screenshots/07_caps_lock.png).
+### System
+
+![Caps Lock](fluent-osd/screenshots/system/caps_lock.png)
 
 See [Fluent OSD](https://github.com/reg-chen/windhawk-mods/blob/fluent-osd-brush-layers/mods/fluent-osd.wh.cpp) for the Windhawk mod source and feature notes.
 
