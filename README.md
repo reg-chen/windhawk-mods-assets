@@ -41,9 +41,9 @@ other network interfaces retain their own notifications.
 
 ### Bluetooth
 
-| Bluetooth device | Keyboard connected | Mouse connected |
-| :---: | :---: | :---: |
-| ![Bluetooth device](fluent-osd/screenshots/bluetooth/device.png) | ![MX Keys Mini connected](fluent-osd/screenshots/bluetooth/keyboard.png) | ![MX Master 4 B connected](fluent-osd/screenshots/bluetooth/mouse.png) |
+| Keyboard connected | Mouse connected |
+| :---: | :---: |
+| ![MX Keys Mini connected](fluent-osd/screenshots/bluetooth/keyboard.png) | ![MX Master 4 B connected](fluent-osd/screenshots/bluetooth/mouse.png) |
 
 ### System
 
